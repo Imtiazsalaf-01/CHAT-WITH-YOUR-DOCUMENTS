@@ -1,4 +1,4 @@
-# RagBase - Private Chat with Your Documents
+# RagBase - CHAT WITH YOUR DOCUMENTS
 
 > Completely local RAG with chat UI
 
