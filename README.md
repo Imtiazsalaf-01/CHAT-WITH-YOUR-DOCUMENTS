@@ -10,6 +10,8 @@
 
 Check out the [RagBase on Streamlit Cloud](https://ragbase.streamlit.app/). Runs with Groq API.
 
+ Try the live application on Hugging Face Spaces: RAG System with Gradio 
+
 ## Installation
 
 Clone the repo:
